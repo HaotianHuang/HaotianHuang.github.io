@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://haotianhuang.github.io/sitemap.xml
